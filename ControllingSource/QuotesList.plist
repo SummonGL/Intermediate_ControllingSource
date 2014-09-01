@@ -98,5 +98,35 @@
 		<key>famousQuote</key>
 		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
 	</dict>
+	<dict>
+		<key>personName</key>
+		<string>1111</string>
+		<key>famousQuote</key>
+		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>2222</string>
+		<key>famousQuote</key>
+		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>3333</string>
+		<key>famousQuote</key>
+		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>4444</string>
+		<key>famousQuote</key>
+		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
+		<string>5555</string>
+		<key>famousQuote</key>
+		<string>&quot;We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty. We must start in our own homes to remedy this kind of poverty.&quot;</string>
+	</dict>
 </array>
 </plist>
